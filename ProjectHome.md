@@ -1,0 +1,1 @@
+Pequeño proyecto que simula una tienda virtual. Para esto, se utilizaran los frameworks Struts 2 y Hibernate 3. Ambos frameworks se trabajaran con anotaciones.
